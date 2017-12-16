@@ -1,0 +1,8 @@
+node_modules/
+bundle.js
+npm-debug.*
+.vscode/
+bundle.js
+bundle.js.map
+package-lock.json
+yarn.lock
